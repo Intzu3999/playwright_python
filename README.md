@@ -1,1 +1,1 @@
-MySQL, HTML, CSS, PHP, Javascript, VB.NET developer
+MySQL, HTML, CSS, PHP, Java, Javascript, VB.NET

@@ -1,25 +1,19 @@
+Playwright official documentation: https://playwright.dev/python/docs/intro 
+
 Inside that directory, you can run several commands:
 
-* **npx playwright test**
+* **pytest**
 Runs the end-to-end tests.
 
-* **npx playwright test --ui**
-Starts the interactive UI mode.
+* **pytest --headed**
+Run tests in headed mode.
 
-* **npx playwright test --project=chromium**
-Runs the tests only on Desktop Chrome.
+* **pytest example_test.py**
+Run specific tests.
 
-* **npx playwright test example**
-Runs the tests in a specific file.
-
-* **npx playwright test --debug**
-Runs the tests in debug mode.
-
-* **npx playwright codegen <url>**
+* **playwright codegen <insert_url>**
 Auto generate tests with Codegen.
 
-* **npx playwright test**
-We suggest that you begin by typing this first
 
 
 Commonly used **Linux commands:**

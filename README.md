@@ -27,16 +27,6 @@ Commonly used **Linux commands:**
 
 
 
-Commonly used **npm and nvm commands:**
-
-* nvm install <v> 		- 	Install a new version of npm/node
-* nvm use <v> 			- 	switch between the versions of npm/node installed
-* nvm alias default <v> 		- 	set default npm/node version
-* npm uninstall -g pnpm	- 	make a new directory on that location
-* npm install -g pnpm@<v>	- 	delete a file/folder
-
-
-
 Commonly used **git commands:**
 
 * git worktree add ../<new-worktree>	- Create New Worktree & Branch (that is not in git repo)
